@@ -34,3 +34,4 @@ sequenceDiagrams:
 
 * [Depressants](../depressants)
 * [Stimulants](../stimulants)
+* [Others](../others)
