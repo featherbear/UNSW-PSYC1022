@@ -1,7 +1,8 @@
 ---
-title: "Depressants | Origins and Manufacture"
+title: "Depressants"
 date: 2021-01-04T15:24:01+11:00
 
+categories: ["Origins and Manufacture of Addictive Drugs"]
 hiddenFromHomePage: false
 postMetaInFooter: false
 

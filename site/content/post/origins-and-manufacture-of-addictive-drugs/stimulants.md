@@ -1,7 +1,8 @@
 ---
-title: "Stimulants | Origins and Manufacture"
+title: "Stimulants"
 date: 2021-01-04T15:26:34+11:00
 
+categories: ["Origins and Manufacture of Addictive Drugs"]
 hiddenFromHomePage: false
 postMetaInFooter: false
 

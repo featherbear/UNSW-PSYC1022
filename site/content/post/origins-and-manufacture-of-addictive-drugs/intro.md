@@ -2,6 +2,7 @@
 title: "Origins and Manufacture of Addictive Drugs"
 date: 2021-01-04T14:52:08+11:00
 
+categories: ["Origins and Manufacture of Addictive Drugs"]
 hiddenFromHomePage: false
 postMetaInFooter: false
 
@@ -31,5 +32,5 @@ sequenceDiagrams:
 
 ---
 
-* [Depressants](../origins-and-manufacture-depressants)
-* [Stimulants](../origins-and-manufacture-stimulants)
+* [Depressants](../depressants)
+* [Stimulants](../stimulants)
