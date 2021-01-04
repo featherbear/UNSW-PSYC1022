@@ -83,6 +83,9 @@ sequenceDiagrams:
 
 * Derived from the Epehdra plant, used in Chinese medicine to treat asthma, hay fever and colds.
 * Purported to increase alertness, but it may have been a placebo
+  * i.e. World War II
+
+---
 
 * History
   * 1885 - Japanese chemist Nagai Nagayoshi extracted the ephedrine
