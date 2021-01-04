@@ -32,3 +32,4 @@ sequenceDiagrams:
 ---
 
 * [Depressants](../origins-and-manufacture-depressants)
+* [Stimulants](../origins-and-manufacture-stimulants)

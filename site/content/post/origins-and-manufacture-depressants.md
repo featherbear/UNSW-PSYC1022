@@ -15,7 +15,7 @@ sequenceDiagrams:
 
 ---
 
-# Alcohol (Depressant)
+# Alcohol
 
 * Easily made through fermentation
 * Highest rates in Europe, Russian, Australia and Canada
@@ -28,10 +28,10 @@ sequenceDiagrams:
   * Jiahu, China (7000-5800BC) - Fermented rice, honey and hawthorn
   * Areni-1 Cave, Armenia (4100BC) - Grapes 
 
-# Opium (Depressant)
+# Opium
 
 * Derived from the sap of a opium poppy seed head
-* (The sap deters herbivorous creates from eating it)
+* (The sap acts as an antiherbivore chemical (i.e. pesticide))
 
 ---
 
