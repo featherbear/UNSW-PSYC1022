@@ -1,2 +1,3 @@
-# YOUR COURSE TITLE
-2021 Session XX Course Work
+# Psychology of Addiction
+
+2021 Summer Term Course Work
