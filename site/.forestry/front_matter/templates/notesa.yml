@@ -1,5 +1,5 @@
 ---
-label: Notesa
+label: Notes
 hide_body: false
 fields:
 - type: text
@@ -8,32 +8,9 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
 - type: list
   name: categories
   label: categories
-- type: boolean
-  name: hiddenFromHomePage
-  label: hiddenFromHomePage
-- type: boolean
-  name: postMetaInFooter
-  label: postMetaInFooter
-- type: field_group
-  name: flowchartDiagrams
-  label: flowchartDiagrams
-  fields:
-  - type: boolean
-    name: enable
-    label: enable
-  - type: text
-    name: options
-    label: options
-- type: field_group
-  name: sequenceDiagrams
-  label: sequenceDiagrams
-  fields:
-  - type: boolean
-    name: enable
-    label: enable
-  - type: text
-    name: options
-    label: options
+  config:
+    use_select: false
