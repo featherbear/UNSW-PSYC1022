@@ -14,5 +14,9 @@ fields:
   label: categories
   config:
     use_select: false
+- name: postMetaInFooter
+  type: boolean
+  label: Footer meta
+  hidden: true
 pages:
 - site/content/post/manufacture-distribution-black-market.md
