@@ -19,6 +19,7 @@ fields:
   label: Footer meta
   hidden: true
 pages:
+- site/content/post/associative-learning.md
 - site/content/post/harms-of-drug-use.md
 - site/content/post/manufacture-distribution-black-market.md
 - site/content/post/quiz/harms-of-drug-use.md
