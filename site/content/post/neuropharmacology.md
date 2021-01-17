@@ -1,7 +1,6 @@
 +++
 categories = ["Neuropharmacology"]
 date = 2021-01-17T11:51:57Z
-draft = true
 postMetaInFooter = false
 title = "Neuropharmacology"
 
@@ -192,17 +191,15 @@ Foulds (1996) - Whilst nicotine does improve target detection, nicotine users ha
 
 > Gamma-amino Butyric Acid
 
-The main inhibitory neurotransmitter, that shifts ion channels which cause the cells to negatively charge (hyperpolarise). 
+The main inhibitory neurotransmitter, that shifts ion channels which cause the cells to negatively charge (hyperpolarise).
 
 ### Use in mitigating epilepsy
 
 Epilepsy is associated with seizures caused from an abnormal level of action potentials. Anticonvulsant drugs aim to increase the inhibition of brain cells in three ways
 
-1) Increase GABA availability
-
-2) Block sodium channels
-
-3) Antagonise the actions of the main excitatory neurotransmitter glutamate
+1. Increase GABA availability
+2. Block sodium channels
+3. Antagonise the actions of the main excitatory neurotransmitter glutamate
 
 ## Glutamate
 
@@ -222,6 +219,26 @@ Reduces the overall level of excitation within the brain
 * Releases endorphins - euphoria and analgesic effect
 * Dopamine agonist
 
-  ## Cannabinoids
+## Cannabinoids
 
-  Anandamide - the neutrotransmitter which binds to CB1 receptors
+Anandamide - the neutrotransmitter which binds to CB1 receptors
+
+> Only recently discovered (Devane 1992)
+
+CB1 receptors tend to be located on the pre-synaptic terminal button of neurons.  
+They exert an inhibitory effect, which increase (or decrease) neural activity depending on the affected neurotransmitter.
+
+Encocannabinoids are created on demand in response to the binding of neurotransmitters from the pre-synaptic cell. This is classified as retrograde behaviour - endocannabinoids are retrograde messengers as information is carried _back_ across the synapse to the CB1 receptor
+
+### Effects of THC
+
+> Reminder: THC is the psychoactive component cannabis
+
+THX binds to the CB1 receptor
+
+![](/uploads/snipaste_2021-01-18_00-08-22.png)
+
+When THC is administered, GABA interneurons are inhibted.  
+This causes the held dopamine cells to be disinhibited, resulting in their effect
+
+![](/uploads/snipaste_2021-01-18_00-10-38.png)
