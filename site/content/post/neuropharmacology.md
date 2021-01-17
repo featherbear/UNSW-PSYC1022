@@ -193,3 +193,35 @@ Foulds (1996) - Whilst nicotine does improve target detection, nicotine users ha
 > Gamma-amino Butyric Acid
 
 The main inhibitory neurotransmitter, that shifts ion channels which cause the cells to negatively charge (hyperpolarise). 
+
+### Use in mitigating epilepsy
+
+Epilepsy is associated with seizures caused from an abnormal level of action potentials. Anticonvulsant drugs aim to increase the inhibition of brain cells in three ways
+
+1) Increase GABA availability
+
+2) Block sodium channels
+
+3) Antagonise the actions of the main excitatory neurotransmitter glutamate
+
+## Glutamate
+
+Present in over 50% of the central nervous system tissue.
+
+### Learning
+
+AMPA / Kainate Receptors - Respond to glutamate release by opening up sodium channels - initiates an action potential within the receiving cell
+
+NMDA Receptors - Repond to glutamate release by opening up calcium channels which activate an intracellular process "second messenger system" - which increases the number of AMPA receptors, and increases the strength of the synaptic connection (long-term potentiation)
+
+### Effect of Alcohol
+
+Reduces the overall level of excitation within the brain
+
+* GABA agonist - further reduces excitation levels, causes sedative effects: anxiety reduction, motor incoordination
+* Releases endorphins - euphoria and analgesic effect
+* Dopamine agonist
+
+  ## Cannabinoids
+
+  Anandamide - the neutrotransmitter which binds to CB1 receptors
