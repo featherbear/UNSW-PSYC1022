@@ -1,7 +1,6 @@
 +++
 categories = ["Withdrawal & Tolerance"]
 date = 2021-01-20T06:23:45Z
-draft = true
 postMetaInFooter = false
 title = "Withdrawal & Tolerance"
 
@@ -51,6 +50,24 @@ Another method that the body performs, is to decrease the number of receptors
 
 ![](/uploads/snipaste_2021-01-20_17-38-55.png)
 
+## Conditioned Tolerance
+
+Long trace conditioning is less effective than short delay conditioning.  
+Yet environmental factors can induce withdrawal symptoms.
+
+**Compensatory response hypothesis**
+
+![](/uploads/snipaste_2021-01-20_19-01-36.png)
+
+![](/uploads/snipaste_2021-01-20_19-04-55.png)
+
+After the first uses, there is little **conditioned compensatory response** (_B_) occurring (positive > negative) however after extended use there is a greater response (negative > positive) and the effects of withdrawal are felt.
+
+Hence, without the drug, a conditioned stimulus may induce a compensatory response - that will be experienced at large.
+
+Tolerance to high doses can be attributed to conditioned tolerance responses.  
+If a drug user administers at a high dose in a different (unconditioned) environment then there may lie a risk that the body does not produce enough of a compensatory response, making the high dose akin to an overdose
+
 # Withdrawal
 
 > Supra-optimal binding
@@ -99,3 +116,19 @@ Symptoms last around 27 days
 Impaired cognition, depression, anxiety
 
 ![](/uploads/snipaste_2021-01-20_17-56-46.png)
+
+## Conditioned Withdrawal
+
+Abraham Wikler - withdrawal represents a significant barrier to abstinence that promotes relapse to drug use
+
+* Addicts learn to perform a particular action (drug use) in order to pre-emptively avoid an expected withdrawal syndrome or terminate a current withdrawal syndrome (negative reinforcement)
+* Recreational drug use maintained by the rewarding properties of the drug (positive reinforcement)
+
+> Why does withdrawal occur even after medically supervised withdrawal?
+
+An environment (CS) may elicit a conditioned state (CR) 
+
+![](/uploads/snipaste_2021-01-20_18-23-17.png)
+
+Environmental cues can produced conditioned withdrawal.  
+This supports the idea that conditioning can happen subconsciously. 
