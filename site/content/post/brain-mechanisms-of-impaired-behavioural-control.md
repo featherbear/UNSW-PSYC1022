@@ -1,7 +1,6 @@
 +++
 categories = ["Brain Mechanisms of Impaired Behavioural Control"]
 date = 2021-01-30T13:12:24Z
-draft = true
 postMetaInFooter = false
 title = "Brain Mechanisms of Impaired Behavioural Control"
 
@@ -109,3 +108,22 @@ As the delay increased, the value decreases (loss of interest)
 * Foresight into future consequences of behaviour
 * Exerting contextual modulation of expected reward calculations made by the OFC
 * Enhancing or decreasing expected drug value in circumstances
+* Left DLPFC - Long term rewards and goals
+  * Reponsible for increasing craving in response to the immediate availability
+
+![](/uploads/snipaste_2021-01-31_01-19-49.png)
+
+Left TLPFC - Evidence for contributing to the value of future rewards
+
+![](/uploads/snipaste_2021-01-31_01-21-07.png)  
+![](/uploads/snipaste_2021-01-31_01-22-34.png)  
+![](/uploads/snipaste_2021-01-31_01-38-18.png)
+
+OFC encodes the value placed onto rewards.  
+Left DLPFC was more active for the self-control group
+
+Higher activity when the smokers believed that they could smoke immediately after the video
+
+## Contextual Control
+
+![](/uploads/snipaste_2021-01-31_01-40-40.png)
