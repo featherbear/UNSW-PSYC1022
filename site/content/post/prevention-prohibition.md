@@ -1,7 +1,6 @@
 +++
 categories = ["Prevention & Prohibition"]
 date = 2021-02-04T11:49:27Z
-draft = true
 postMetaInFooter = false
 title = "Prevention & Prohibition"
 
@@ -147,3 +146,79 @@ Annual risk of drug arrest 2% marijuana, 6% cocaine.
 This is lower than what people believe it to be.
 
 But this perceived risk had a weak relationship to the consumption of drugs. For people with prior use of drugs, there was an even weaker relationship (Patternoster 1987)
+
+Addicts are less able to incorporate negative consequences into decision making, so fear would have a very weak effect on their consumption
+
+## Price
+
+If addicts are rational, they should reduce their drug consumption levels.  
+Except they're not.
+
+![](/uploads/snipaste_2021-02-04_23-50-18.png)
+
+The fact that drug consumption **is** elastic supports the efficacy of tax and prohibition initiatives.
+
+### Affect of policies on on street price
+
+* DiNardo 1993 - Police enforcement over time or place had little impact
+* Reuter et al 1988 - Miltary controls at the border had little impact
+
+> Caulkins and Reuter 1998 - Prohibition accounted for (only) 35% of retail cocaine costs in the US; the rest being independent of prohibition.
+
+Therefore, prohibition variances can only affect (at most) 35% of the retail cost
+
+![](/uploads/snipaste_2021-02-04_23-53-49.png)
+
+![](/uploads/snipaste_2021-02-04_23-55-55.png)
+
+## Informal Social Controls
+
+Rational Choice Theory suggests that people will only not commit crimes if there is swift and effective punishments. However this is overly naive of humanity, and ignores the individual's moral conscience.
+
+### Kohlberg's Theory of Moral Development (1971)
+
+* Preconventional - Most susceptible to deterrence effects, most sensitive to prospective punishments
+* Conventional - influenced by the symbolic status of the law. May be undermined by confirming to counter-cultural norms
+* Postconventional - less concerned with risks, value their internalised beliefs regarding which actions are morally defensible
+
+Laws and the fear of sanction only work on the preconventional group (before they are willing to side-step the law)
+
+![](/uploads/snipaste_2021-02-05_00-02-45.png)
+
+## Symbolic Threshold Effect
+
+States that demonstrate exemplary behaviour (aren't corrupt, brutal, etc) will have citizens who are more compliant with their prohibitions. Citizens of corrupt states are less likely to comply to policies and regulations
+
+> French and Ravens (1959) - Legitimate vs Coercive Power
+
+* Legitimate Power - where one accepts the legitimacy of state laws
+* Coercive Power - where one seeks to avoid punishment
+
+Legitimate power is thought to be more effective in influencing behaviour.
+
+![](/uploads/snipaste_2021-02-05_00-06-38.png)
+
+## Forbidden Fruit Effect
+
+(Sort of like the reverse of the Symbolic Threshold Effect)
+
+_The illegal-ness of the drug makes it more attractive_
+
+![](/uploads/snipaste_2021-02-05_00-07-39.png)
+
+## Stigmatisation
+
+> Social effects / effects on reputation - i.e. loss of relationships, loss of job opportunities, public shaming
+
+Farrington (1977) found that rather than reducing deviant behaviour, stigmatisation following arrest appeared to reduce future legitimate opportunities making deviant behaviours **more** likely
+
+![](/uploads/snipaste_2021-02-05_00-10-36.png)  
+![](/uploads/snipaste_2021-02-05_00-10-59.png)
+
+***
+
+# TLDR
+
+* Prohibition has a limited impact on reducing drug use
+* Many programs (prohibition, prevention, treatment) influence drug behaviour, but have limited efficacy over time
+* Treatment is the most cost effective
