@@ -1,7 +1,6 @@
 +++
-categories = []
+categories = ["Pharmacotherapy"]
 date = 2021-02-04T06:16:26Z
-draft = true
 postMetaInFooter = false
 title = "Pharmacotherapy"
 
@@ -89,7 +88,7 @@ If injected, the naloxone counters the opioid agonist effects, making the inject
 
 This causes suboxone to be taken orally more pleasurably than via injections.
 
-### Nicotine Replacements
+## Nicotine Replacements
 
 > In 1967, Dr Claes Lundgren suggested nicotine as a substitute for tobacco, having seen sailors switch from smoking to chewing tobacco
 
@@ -99,3 +98,42 @@ Ove Ferno designed nicotine gum as a means to orally administer nicotine with de
 
 Abstinence increased a lot, however it did not improve absolute quit rates.  
 However, effective at reducing the frequency of smoking (Wang et al 2008)
+
+## Bupropion (Zyban)
+
+Bupropion is a dopamine, noradrenaline indirect agonist // reuptake inhibitor, and antagonist for nicotine acetylcholine receptors. Blocks the rewarding effects of nicotine, rather than by reversing withdrawal induced depression - which may improve abstinence rates
+
+> Tobacco withdrawal syndrome is associated with a marked increase in depression, which furthers the inability to quit smoking
+
+Anti-depressent agents may protect against relapse by decreasing depression tendency.
+
+> Hurt et al (1997) found that the anti-depresant bupropion produced superior quit rates, marketed as a smoking cessation agent under the name Zyban. 
+
+## Varenicline (Champix)
+
+Acetylcholine partial agonist - weak nicotine replacement agent to make acetylcholine neurons reverse withdrawal related hypofunction, and blocks the rewarding effects of smoking by competing with nicotine.
+
+Demonstrated to be slightly more effective as a smoking cessation agent than NRT or bupriopion. Though absolute quit rates still remain low
+
+![](/uploads/snipaste_2021-02-04_18-12-11.png)
+
+### Gabapentin
+
+THC activates CB1 receptors to inhibit other cells, increasing over brain inhibition. Following cannabis withdrawal, the brain over-excitates.
+
+Gabapentin seems to help to reduce both cannabis use and withdrawal
+
+# Treatments
+
+![](/uploads/snipaste_2021-02-04_18-13-06.png)  
+![](/uploads/snipaste_2021-02-04_18-14-02.png)
+
+Currently no effective medication against cocaine, amphetamine or cannabis addiction.
+
+# Cognitive Enhancers
+
+Drugs that improve performance on some metric
+
+![](/uploads/snipaste_2021-02-04_18-23-09.png)
+
+None of them have compelling efficacy to treat addiction
