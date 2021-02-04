@@ -34,7 +34,7 @@ During the period of the American War on Drugs, there has been a substantial inc
 
 Select one:
 
-a. Decreased
+**a. Decreased**
 
 b. Increased
 
@@ -154,7 +154,7 @@ d. A conditioned stimulus
 
 Select one:
 
-a. Roy A Wise
+**a. Roy A Wise**
 
 b. George F Koob
 
