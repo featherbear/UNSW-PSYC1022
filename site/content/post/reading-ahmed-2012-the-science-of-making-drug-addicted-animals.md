@@ -1,12 +1,13 @@
 +++
 categories = ["Readings"]
 date = 2021-02-05T11:34:29Z
-draft = true
 postMetaInFooter = false
 title = "Reading: Ahmed (2012) - The science of making drug-addicted animals"
 
 +++
-Researchers attempt to make animals addicted to drugs, in order to better understand the neuroscience of drug addiction
+Researchers attempt to make animals addicted to drugs, in order to better understand the neuroscience of drug addiction.
+
+> It didn't go so well with rats and cocaine...
 
 ***
 
@@ -81,4 +82,22 @@ After increasing the cocaine dosage from 0.25mg to 1.5mg per infusion, rats **st
 
 > Maybe rats preferred saccharin because they grew up with it initially?
 
-After training rats with cocaine as the only available reward, when exposed to saccharin they rapidly shifted their preference from cocaine to saccharin. (Lenor et al 2007)
+After training rats with cocaine as the only available reward, when exposed to saccharin they rapidly shifted their preference from cocaine to saccharin. (Lenoir et al 2007)
+
+After a further experiment, giving rats only access to cocaine prior to the experiment, they still preferred saccharin.
+
+## Anxiogenic Effects
+
+Rats may prefer saccharin over cocaine as a result of the anxiogenic effects exhibited when taking cocaine. However these effects only seem to have occurred near initial-cocaine taking - rats that later administrated cocaine did not exhibit much of these effects
+
+# Vulnerable Rats
+
+Whilst the majority of rats preferred the sweetened water, there was a stable amount of rats (10% - 20% which preferred the cocaine).
+
+They preferred cocaine over sucrose despite the fact that the sucrose would relieve them of their needed calories
+
+***
+
+* Most rats learn to SA cocaine when no other choice is available
+* With extended access to cocaine, rats _may_ develop changes that increasingly motivate them to take cocaine
+* However, attempts seem vain, as the majority of rats preferred the sweetened water regardless of attempts to "additise" them.
