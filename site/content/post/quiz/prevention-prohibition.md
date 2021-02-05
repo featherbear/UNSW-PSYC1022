@@ -2,7 +2,7 @@
 categories = ["Quiz", "Prevention & Prohibition"]
 date = 2021-02-04T13:13:55Z
 postMetaInFooter = false
-title = "Prevention & Prohibition"
+title = "Quiz: Prevention & Prohibition"
 
 +++
 > Efficacy of the "Just Say No" prevention campaign was supported by compelling survey evidence.

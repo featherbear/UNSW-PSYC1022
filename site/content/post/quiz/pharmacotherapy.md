@@ -2,7 +2,7 @@
 categories = ["Quiz", "Pharmacotherapy"]
 date = 2021-02-04T07:25:57Z
 postMetaInFooter = false
-title = "Pharmacotherapy"
+title = "Quiz: Pharmacotherapy"
 
 +++
 > Varenicline is a pharmacotherapy used to treatment nicotine dependence which works as a/an _________________ .
