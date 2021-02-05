@@ -6,6 +6,8 @@ postMetaInFooter = false
 title = "Reading: Wise and Koob (2014) - The development and maintenance of drug addiction"
 
 +++
+[Reading](/uploads/readings/Wise_and_Koob_2014_The development and maintenance of drug addiction.pdf)
+
 # Positive and Negative Reinforcement
 
 * Positive reinforcement occurs during the beginning of the development of an addiction
@@ -15,11 +17,17 @@ title = "Reading: Wise and Koob (2014) - The development and maintenance of drug
 
 They agree with each other about the early and late stages of addiction
 
+* Positive reinforcement leads to the initial repetition of drug taking that then becomes habitual, and eventually compulsive
+
 # Disagreements
 
 1. The time between early and late at which the diagnosis of addiction is considered
 2. The relative importance of positive and negative reinforcement
 3. The degree to which the specifics of negative reinforcement can be generalised across the range of addictive agents
+
+Wise does not accept that dependent === addicted
+
+Rather than development of the effects from negative reinforcements, reward selection may instead just be narrowing - a creature may raise the value of a certain value, and devalue other possible rewards - THOUGH, this does not attribute behaviours where stress-like responses were exhibited.
 
 ***
 
@@ -95,3 +103,26 @@ Drug dependence requires the negative effects experienced through the absence of
 Negative reinforcement is required to enter addiction (Koob)
 
 Dopamine is not the entire reward system, nor the crucial reward neurotransmitter - rather it is just one required component in addiction.
+
+***
+
+Addiction involves long-term, persistent dysregulation of the activity of neural circuits that mediate positive and negative reinforcement through
+
+* Decreased function of the brain reward systems that control natural rewards
+* Recruitment of brain stress/anti-reward systems that drive aversive states
+
+### Anti-reward
+
+A concept developed by Koob and Le Moal (2008) that forms a general feature of biological systems, that are in place to limit reward. The body adapts to neutralise a drug's effect (inertia). Persistence of the opposing effects after the drug disappears produces adaptation..
+
+***
+
+Withdrawal is produced from the excessive activation of the body's reward and salience system that trigger neuroadaptive changes.
+
+The anti-reward systems suppress dopamine and glutamate release via direct activation of stress-like/fear-like states in the extended amygdala, and the activation of dysphoric-like states in the ventral striatum and extended amygdala.
+
+***
+
+Drug seeking behaviour and addiction is the combination of decreases in reward neurotransmitter function and recruitment of anti-reward systems
+
+***
