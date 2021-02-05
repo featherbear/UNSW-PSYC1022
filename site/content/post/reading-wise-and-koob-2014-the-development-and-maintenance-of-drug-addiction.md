@@ -23,9 +23,12 @@ They agree with each other about the early and late stages of addiction
 
 ***
 
-## When is something considered addictive?
+## (Wise) Positive Reinforcement In Addiction - Issues of Cause and Consequence
 
-* There is no scientific definition to define addiction.
+> When is something considered addictive?
+
+There is no scientific definition to define addiction.
+
 * Should we use the word 'addiction' or 'dependence'
   * But does this help?
 * The word 'addiction' means different things to different people
@@ -45,6 +48,42 @@ Opiate addiction causes users to progressively consume higher doses to maintain 
 * Drug self-administration does not cause addiction
 * Rats and monkeys that learn to respond regularly to IV cocaine will likely take cocaine to the point of convulsion or death, many reached the point of feeling painful footshock.
 
+***
+
+> Koob (?)
+>
 > "Simple unfettered exposure to the drug (IV cocaine, amphetamines, heroin) is a sufficient condition for addiction in rats"
 
+Do not generalise to other drugs, other routes of administration, doses, nor to humans.
+
+Humans are smarter than rats - lab rats will continue to take a drug (once started on it), until they collapse.
+
+Rats become addicted when its drug taking becomes regular, predictable and uninterrupted; rathr than hormonal. Addiction is therefore behavioural, a result of self-administration of drugs that more strongly elevate extracellular dopamine levels, and from the stamping in of memory traces associated. - Wise
+
+Neuropharmalogical changes- Koob
+
 ***
+
+### Addition causes changes in the brain
+
+1) Changed by repeated drug exposure - drug-generated sensitisation of anti-reward
+
+2) Changed by the development of memory traces for the drug experience - that may cause cravings
+
+***
+
+The self-administration of addictive drugs cause brain and peripheral changes beyond those caused by passive receipt of the drug.
+
+For smokers, the primary stimulus for craving is the thought of when the next cigarette will become available, rather than the time since the last one.
+
+Addiction should therefore be related to the early signs of compulsive drug taking and the cravings associated with it, rather than the bodily consequences that develop after a long history of drug self-administration
+
+***
+
+***
+
+***
+
+***
+
+## (Koob) Negative Reinforcement in Drug Addiction - The Devil in the Dysphoria
