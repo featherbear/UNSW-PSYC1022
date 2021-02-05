@@ -45,3 +45,30 @@ Two groups of rats were given access to cocaine, one group for 1 hr, the other f
 * Higher tendency to reinstate their intoxication after extinction
 
 Those in the extended group, when exposed to footshocks, resumed consuming the cocaine faster than the control group - difficulty in abstaining
+
+* Deceased neurocognitive functions
+* Long term drug users addicted to cocaine had deficits in neurocognitive functionality - generally mild in severity
+  * Those in the limited access time had near-indistinguishable cognitive differences from drug-naive rats (without)
+* However, **rats with extended access to cocaine showed reduce motor impulsivity in high-impulsive rats**
+
+***
+
+# Rat: Cocaine SA vs Alternate Non-drug Activities
+
+> If rats prefer to self-administer cocaine despite the opportunity of making a different choice,t hen one has ground to hypothesise a state of addiction that could then be confirmed by increasing the costs associated with drug preference
+
+## Test Condition 1 & 2
+
+One lever rewarded a reward (cocaine or sacharin)  
+The other level was unrewarded
+
+## Test Condition 3
+
+One lever rewarded cocaine  
+One level rewarded saccharin
+
+## Results
+
+The preference of cocaine emerged more slowly than saccharin, indicative that cocaine is less reinforcing than saccharin.
+
+After the stabilisation of preference, the time taken to choose cocaine was greater than the time taken to choose the saccharin - Rats may have been exercising voluntary abstinence, in the hope of receiving saccharin instead
