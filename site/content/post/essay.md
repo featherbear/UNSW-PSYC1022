@@ -1,7 +1,6 @@
 +++
 categories = ["Essay"]
-date = 2021-01-25T12:57:48Z
-draft = true
+date = 2021-01-25T12:59:48Z
 postMetaInFooter = false
 title = "Essay"
 
