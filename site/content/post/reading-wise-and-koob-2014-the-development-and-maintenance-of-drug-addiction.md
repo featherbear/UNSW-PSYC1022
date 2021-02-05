@@ -87,3 +87,11 @@ Addiction should therefore be related to the early signs of compulsive drug taki
 ***
 
 ## (Koob) Negative Reinforcement in Drug Addiction - The Devil in the Dysphoria
+
+Drug dependence requires the negative effects experienced through the absence of the drug.
+
+**Drug-generated sensitisation of the anti-reward**
+
+Negative reinforcement is required to enter addiction (Koob)
+
+Dopamine is not the entire reward system, nor the crucial reward neurotransmitter - rather it is just one required component in addiction.
