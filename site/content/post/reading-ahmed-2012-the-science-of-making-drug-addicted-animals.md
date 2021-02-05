@@ -72,3 +72,13 @@ One level rewarded saccharin
 The preference of cocaine emerged more slowly than saccharin, indicative that cocaine is less reinforcing than saccharin.
 
 After the stabilisation of preference, the time taken to choose cocaine was greater than the time taken to choose the saccharin - Rats may have been exercising voluntary abstinence, in the hope of receiving saccharin instead
+
+### Followup
+
+After increasing the cocaine dosage from 0.25mg to 1.5mg per infusion, rats **still preferred the saccharin reward** (Lenoir et al 2007) - this indicates that the value of cocaine was bounded with a maximum that was lower than the value of the saccharin.
+
+### Behavioural Inertia
+
+> Maybe rats preferred saccharin because they grew up with it initially?
+
+After training rats with cocaine as the only available reward, when exposed to saccharin they rapidly shifted their preference from cocaine to saccharin. (Lenor et al 2007)
